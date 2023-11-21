@@ -1,0 +1,29 @@
+{
+  "student": [
+    {
+      "id": 2,
+      "firstName": "dfghfd",
+      "lastName": "dfgfd",
+      "email": "dfg",
+      "cell": "df",
+      "salary": "5555"
+    },
+    {
+      "id": 3,
+      "firstName": "sdfgsd",
+      "lastName": "fdsfds",
+      "email": "ffd",
+      "cell": "f",
+      "salary": "sdfsdfs"
+    }
+  ],
+  "comments": [
+    {
+      "cell": "f",
+      "salary": "sdfsdfs"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
