@@ -7,11 +7,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { EmployeeComponent } from './employee/employee.component';
 import { HttpClientModule, provideHttpClient, withFetch } from '@angular/common/http';
 import {FormsModule,ReactiveFormsModule}  from '@angular/forms';
+import { TaskComponent } from './task/task.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    EmployeeComponent
+    EmployeeComponent,
+    TaskComponent
   ],
   imports: [
     BrowserModule,
